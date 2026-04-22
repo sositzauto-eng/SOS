@@ -1,0 +1,15 @@
+{
+  "name": "S.O.S ITZ — Socorro Automotivo",
+  "short_name": "S.O.S ITZ",
+  "description": "App de socorro automotivo estilo Uber",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1B2A",
+  "theme_color": "#0D1B2A",
+  "categories": ["utilities", "transport"],
+  "icons": [
+    { "src": "assets/logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
